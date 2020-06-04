@@ -1,0 +1,8 @@
+C:\Users\Aldo\source\repos\SistemaControlloTemperatura\SistemaControlloTemperatura\bin\Debug\SistemaControlloTemperatura.exe.config
+C:\Users\Aldo\source\repos\SistemaControlloTemperatura\SistemaControlloTemperatura\bin\Debug\SistemaControlloTemperatura.exe
+C:\Users\Aldo\source\repos\SistemaControlloTemperatura\SistemaControlloTemperatura\bin\Debug\SistemaControlloTemperatura.pdb
+C:\Users\Aldo\source\repos\SistemaControlloTemperatura\SistemaControlloTemperatura\bin\Debug\SensoriAttuatori.dll
+C:\Users\Aldo\source\repos\SistemaControlloTemperatura\SistemaControlloTemperatura\obj\Debug\SistemaControlloTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Aldo\source\repos\SistemaControlloTemperatura\SistemaControlloTemperatura\obj\Debug\SistemaControlloTemperatura.csproj.CopyComplete
+C:\Users\Aldo\source\repos\SistemaControlloTemperatura\SistemaControlloTemperatura\obj\Debug\SistemaControlloTemperatura.exe
+C:\Users\Aldo\source\repos\SistemaControlloTemperatura\SistemaControlloTemperatura\obj\Debug\SistemaControlloTemperatura.pdb
